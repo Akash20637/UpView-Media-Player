@@ -1,0 +1,12 @@
+{
+  "name": "upview",
+  "version": "1.0.0",
+  "description": "It is the media player which plays online videos you can upload your own video and you can also does tweets on other creators posts",
+  "main": "index.js",
+  "type" : "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akash",
+  "license": "ISC"
+}
